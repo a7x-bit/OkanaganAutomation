@@ -1,0 +1,10 @@
+Illume 4 inch Smart LED Recessed Panel Light RGB with ESPhome.
+
+Uses ESP8285 M2
+
+Pin layout as follows:
+
+Red: GPIO5
+Green: GPIO14
+Blue: GPIO12
+White: GPIO13
