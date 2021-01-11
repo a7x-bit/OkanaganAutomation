@@ -1,0 +1,2 @@
+# OkanaganAutomation
+ESPHome related
